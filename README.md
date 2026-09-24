@@ -130,7 +130,7 @@ The model explains a substantial portion of the variation in listed prices, whil
 Mobile-Phone-Market-Analysis/
 │
 ├── data/
-│ └── Mobilephone_uncleaned.csv
+│ └── mobile_phone_market_data_raw.csv
 │
 ├── notebook/
 │ └── Mobile_Phone_Market_Analysis.ipynb
