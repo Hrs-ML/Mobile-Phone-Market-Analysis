@@ -192,3 +192,11 @@ Run the notebook cells sequentially to reproduce the data cleaning, exploratory 
 - Compare Linear Regression with tree-based models.
 - Add additional mobile specifications such as display resolution, charging speed, and 5G support.
 - Develop an interactive dashboard for deeper exploration.
+
+---
+
+## 🤖 AI Assistance & Validation
+
+AI tools were used during the development of this project to assist with code generation, debugging, documentation, and analytical workflow development.
+
+All generated outputs were **manually reviewed, tested, modified, and corrected where required**. The final notebook and analysis reflect **my understanding and validation** of the implemented workflow.
